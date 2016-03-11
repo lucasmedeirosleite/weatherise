@@ -1,0 +1,2 @@
+defmodule Weatherise do
+end
